@@ -1,4 +1,16 @@
-html {
-  height: 100%;
-  width: 100%;
+header{
+  background: #00a000;
+  height: 100px;
+}
+
+#logo{
+  height: 100px;
+  display: inline;
+}
+
+h2{
+  display: inline;
+  position: relative;
+  top: -45px;
+  left: 50px;
 }
