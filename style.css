@@ -35,6 +35,10 @@ h2:hover{
   z-index: 1;
 }
 
+section{
+  margin: 100px 0;
+}
+
 h3{
   text-align: center;
   font-size: 30px;
